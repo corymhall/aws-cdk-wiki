@@ -14,16 +14,26 @@ sources, and build and publish your own constructs.
 
 ## Infrastructure as .NET with the AWS CDK (WIN310)
 
+<details>
+<summary>Click to see the details</summary>
 In this session, we quickly cover the basic concepts of AWS CDK, then we live code an application with it in .NET. See
 how easy it is to configure your cloud resources, manage permissions, connect event sources for our serverless app, and
 even build and publish your own constructs.
+
+**Presenters**: Nicki Stone & Steve Roberts
+</details>
 
 [![Infrastructure as .NET with the AWS CDK](http://img.youtube.com/vi/cxaFQMWMs7g/0.jpg)](http://www.youtube.com/watch?v=cxaFQMWMs7g)
 
 ## Contributing to the AWS Construct Library (OPN205)
 
+<details>
+<summary>Click to see the details</summary>
 In this session, we discuss the design patterns and considerations in the AWS Construct Library, all in the context of a
 new contribution to the project that we’ll live code in TypeScript on stage.
+
+**Presenters**: Lee Peckham & Rico Huijbers
+</details>
 
 [![Contributing to the AWS Construct Library](http://img.youtube.com/vi/eqKxp5MzuVA/0.jpg)](http://www.youtube.com/watch?v=eqKxp5MzuVA)
 
