@@ -22,3 +22,12 @@ In this session, we discuss the design patterns and considerations in the AWS Co
 new contribution to the project that we’ll live code in TypeScript on stage.
 
 [![Contributing to the AWS Construct Library](http://img.youtube.com/vi/eqKxp5MzuVA/0.jpg)](http://www.youtube.com/watch?v=eqKxp5MzuVA)
+
+## Infrastructure is Code with the AWS CDK
+
+Learning Objectives:
+ - Learn about AWS CDK TypeScript and Python and core concepts of the CDK framework
+ - Learn how to build reusable components
+ - Learn how to engage with the open source community and start contributing to CDK code
+
+[![Infrastructure is Code with the AWS CDK](http://img.youtube.com/vi/ZWCvNFUN-sU/0.jpg)](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
