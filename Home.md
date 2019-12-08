@@ -1,3 +1,4 @@
 Welcome to the aws-cdk wiki!
 
-* [[Videos]]
+* [[Getting Started Videos]]
+* [[Advanced Videos]]
