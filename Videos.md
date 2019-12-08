@@ -37,6 +37,20 @@ new contribution to the project that we’ll live code in TypeScript on stage.
 
 [![Contributing to the AWS Construct Library](http://img.youtube.com/vi/eqKxp5MzuVA/0.jpg)](http://www.youtube.com/watch?v=eqKxp5MzuVA)
 
+## Modeling AWS infrastructure with the AWS CDK
+
+<details>
+<summary>Click to see the details</summary>
+
+This is a two-part live coding session on building your AWS infrastructure using the AWS CDK. The AWS Cloud Development Kit (AWS CDK), is an open source software development framework that makes it easy for developers to model and provision cloud native applications using familiar tools and programming languages. AWS CDK accelerates your application development velocity by giving you the familiarity and expressive power of object oriented programming languages and the simplicity of higher-level abstractions for AWS services that encapsulate AWS best practices, removing the need to worry about detailed configuration.
+
+**Presenters**: Nicki Stone & Elad Ben-Israel
+</details>
+
+[Modeling AWS infrastructure with the AWS CDK | Part 1](https://www.twitch.tv/videos/485854357)
+
+[Modeling AWS infrastructure with the AWS CDK | Part 2](https://www.twitch.tv/videos/486434198)
+
 ## Infrastructure is Code with the AWS CDK
 
 <details>
