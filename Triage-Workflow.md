@@ -4,9 +4,9 @@ This wiki includes a bunch of canned responses for GitHub issues. Feel free to e
 
 Bugs are triaged for priority:
 
-- **P0**: must be fixed right now through a patch release
-- **P1**: major acknowledged bug in the area without a reasonable workaround
-- **P2**: minor bug that has a workaround
+- **P0**: Catastrophic failure. Prevents significant usage for many/most customers.
+- **P1**: Severe bug, shared by multiple customers. Blocks usage and/or workaround is too complex.
+- **P2**: Small/medium bug. Only affects edge-case or tertiary code area and/or has a decent workaround.
 
 ### Features
 
