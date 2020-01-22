@@ -21,6 +21,5 @@ Features are triaged as follows:
 For *guidance* issues, in the most part either the owner can simply answer the question or kick off a discussion, or preferably refer the user to Stack Overflow to ask their question there. There is tons of value for these questions to be archived in SO over GitHub and in many cases the community will be able to answer.
 
 ```
-Please post questions on Stack Overflow under
-the [aws-cdk](https://stackoverflow.com/questions/tagged/aws-cdk) tag.
+We're happy to help you out, but GitHub issues is not a support forum. There are websites much better suited for that, such as StackOverflow. Please ask that same question again on [StackOverflow under the aws-cdk](https://stackoverflow.com/questions/ask?tags=aws-cdk). If you can't get a response to your question, please bring it to our attention again and we will do our best to answer it.
 ```
