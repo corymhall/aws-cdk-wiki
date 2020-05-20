@@ -4,7 +4,7 @@ Some questions are asked over and over again, and typing out the same answers ov
 
 ## Guidance question on the bug tracker
 
-**(tag as "Guidance", and close)**
+*(tag as **Guidance**, and close)*
 
 > We're happy to help you out, but GitHub issues is not a support forum. There are websites much better suited for that, such as StackOverflow.
 >
@@ -12,7 +12,7 @@ Some questions are asked over and over again, and typing out the same answers ov
 
 ## Mixing L1 and L2
 
-**(tag as "cause/mixing-l1-and-l2", and probably also as "cause/python-no-types")**
+*(tag as **cause/mixing-l1-and-l2**, and probably also as **cause/python-no-types**)*
 
 > Looks like you are mixing [CloudFormation Resource classes with Construct Library Classes](https://docs.aws.amazon.com/cdk/latest/guide/constructs.html#constructs_lib). 
 >
