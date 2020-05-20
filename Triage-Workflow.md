@@ -27,4 +27,3 @@ For *guidance* issues, in the most part either the owner can simply answer the q
 > We're happy to help you out, but GitHub issues is not a support forum. There are websites much better suited for that, such as StackOverflow.
 >
 > Please ask that same question again on \[StackOverflow under the aws-cdk](https://stackoverflow.com/questions/ask?tags=aws-cdk) tag. If you can't get a response to your question, please bring it to our attention again and we will do our best to answer it.
-```
