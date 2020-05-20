@@ -14,7 +14,7 @@ Some questions are asked over and over again, and typing out the same answers ov
 
 *(tag as **cause/mixing-l1-and-l2**, and probably also as **cause/python-no-types**)*
 
-> Looks like you are mixing [CloudFormation Resource classes with Construct Library Classes](https://docs.aws.amazon.com/cdk/latest/guide/constructs.html#constructs_lib). 
+> Looks like you are mixing \[CloudFormation Resource classes with Construct Library Classes\](https://docs.aws.amazon.com/cdk/latest/guide/constructs.html#constructs_lib). 
 >
 > Classes and interfaces that start with the name `Cfn` are CloudFormation Resources classes (also called L1 classes), which map directly onto CloudFormation. They generally only work in primitives, so they'll accept strings and numbers and structs of strings and numbers, but never other classes. For example, classes at the L1 level will take a Log Group ARN as a string, not a LogGroup object.
 >
