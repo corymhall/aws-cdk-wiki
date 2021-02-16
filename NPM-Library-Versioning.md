@@ -2,10 +2,10 @@
 
 CDK **Applications** should use point versions of Core CDK libraries. Specifically, they should NOT be using **range** dependencies. So:
 
-```json
+```js
 { 
   "dependencies": {
-    "@aws-cdk/core": "1.80.0",   // NOT: "^1.80.0",
+    "@aws-cdk/core": "1.80.0",   /* NOT: "^1.80.0" */
   }
 }
 ```
@@ -22,7 +22,7 @@ In the mean time, don't make the same mistake we did! Use CDK as a `peerDependen
 
 Don't use experimental APIs in your library (see the documentation to confirm), then set up your `package.json` like this:
 
-```json
+```js
 {
   "peerDependencies": {
     "@aws-cdk/core": "^1.80.0",  // <-- this is the MINIMUM version you support
@@ -40,7 +40,7 @@ You then need to give the following guidance to your *consumers*:
 * If your consumer is using NPM7: no additional work needed (NPM7 will automatically install `peerDependencies`).
 * If your consumer is using NPM6 or older: they MUST add your peerDependencies (at their desired version) to their own dependencies:
 
-```json
+```js
 /* application's package.json */
 {
   "dependencies": {
