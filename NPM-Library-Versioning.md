@@ -38,19 +38,35 @@ Don't use experimental APIs in your library (see the documentation to confirm), 
 
 You then need to give the following guidance to your *consumers*:
 
-* If your consumer is using NPM7: no additional work needed (NPM7 will automatically install `peerDependencies`).
-* If your consumer is using NPM6 or older: they MUST add your peerDependencies (at their desired version) to their own dependencies:
+### If your consumer is using NPM 7 or higher
+
+Great! No additional work needed! NPM 7 will automatically install `peerDependencies`.
+
+### If your consumer is using NPM 6 or lower
+
+Your consumer must add YOUR peerDependencies at THEIR desired CDK version, to their own `package.json`:
 
 ```js
 /* application's package.json */
 {
   "dependencies": {
     "awesome-library": "^1.0.0",  // <-- this can be a ^, but be aware that bumping your library's
-                                  // minimum CDK requirement will be a BREAKING CHANGE for users of NPM6 and older (because they
-                                  // will need to update their package.json)
+                                  // minimum CDK requirement (or adding dependencies) will be a 
+                                  // BREAKING CHANGE for users of NPM6 and older (because they
+                                  // will need to update their package.json), requiring a major version bump
     "@aws-cdk/core": "1.90.0",   // <-- this can be higher. Still no ^
     "@aws-cdk/aws-foo": "1.90.0" // <-- additional dependency necessary because of 'awesome-library'
   }
 }
 ```
-  
+
+This means that for NPM 6 users, your library becomes more onerous to use the more dependencies you have,
+and any change to your dependencies is a breaking change that requires a major version bump.
+
+> This unfortunate user experience is ultimately the reason CDK went with `dependencies` instead of `peerDependencies`...
+> but if you don't have all versions exactly in lockstep then NPM may install multiple copies of the libraries
+> which leads to compilation errors. 
+>
+> The ultimate correct behavior is what NPM 7 is doing: automatically installing `peerDependencies`, ensuring there is
+> only one copy of the library. At this point we'll have to either mandate that our users use NPM 7, or keep accomodating NPM 6 
+> with additional instructions until NPM 7 has become widespread enough.
