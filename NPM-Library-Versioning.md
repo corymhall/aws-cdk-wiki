@@ -49,7 +49,7 @@ You then need to give the following guidance to your *consumers*:
                                   // minimum CDK requirement will be a BREAKING CHANGE for users of NPM6 and older (because they
                                   // will need to update their package.json)
     "@aws-cdk/core": "1.90.0",   // <-- this can be higher. Still no ^
-    "@aws-cdk/aws-foo": "1.90.0" // <-- you need to add this because of 'awesome-library'
+    "@aws-cdk/aws-foo": "1.90.0" // <-- additional dependency necessary because of 'awesome-library'
   }
 }
 ```
