@@ -6,6 +6,7 @@ CDK **Applications** should use point versions of Core CDK libraries. Specifical
 { 
   "dependencies": {
     "@aws-cdk/core": "1.80.0",   /* NOT: "^1.80.0" */
+    "@aws-cdk/aws-ec2": "1.80.0"
   }
 }
 ```
