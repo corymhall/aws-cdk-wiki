@@ -45,7 +45,7 @@ You then need to give the following guidance to your *consumers*:
 /* application's package.json */
 {
   "dependencies": {
-    "awesome-library": "^1.0.0",
+    "awesome-library": "^1.0.0",  // <-- this can be a ^, but be aware that bumping your minimum CDK requirement will be a BREAKING CHANGE for users of NPM6 and older
     "@aws-cdk/core": "1.90.0",   // <-- this can be higher. Still no ^
     "@aws-cdk/aws-foo": "1.90.0" // <-- you need to add this because of 'awesome-library'
   }
