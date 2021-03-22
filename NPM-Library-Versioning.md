@@ -1,9 +1,9 @@
-## Applications 
+## Applications
 
 CDK **Applications** should use point versions of Core CDK libraries. Specifically, they should NOT be using **range** dependencies. So:
 
 ```js
-{ 
+{
   "dependencies": {
     "@aws-cdk/core": "1.80.0",   /* NOT: "^1.80.0" */
     "@aws-cdk/aws-ec2": "1.80.0"
@@ -27,11 +27,11 @@ Don't use experimental APIs in your library (see the documentation to confirm), 
 {
   "peerDependencies": {
     "@aws-cdk/core": "^1.80.0",  // <-- this is the MINIMUM version you support
-    "@aws-cdk/aws-foo": "^1.80.0", 
+    "@aws-cdk/aws-foo": "^1.80.0",
   },
   "devDependencies": {
     "@aws-cdk/core": "1.80.0",   // <-- purposely no ^ here to make sure you test against the minimum version
-    "@aws-cdk/aws-foo": "1.80.0", 
+    "@aws-cdk/aws-foo": "1.80.0",
   }
 }
 ```
@@ -51,7 +51,7 @@ Your consumer must add YOUR peerDependencies at THEIR desired CDK version, to th
 {
   "dependencies": {
     "awesome-library": "^1.0.0",  // <-- this can be a ^, but be aware that bumping your library's
-                                  // minimum CDK requirement (or adding dependencies) will be a 
+                                  // minimum CDK requirement (or adding dependencies) will be a
                                   // BREAKING CHANGE for users of NPM6 and older (because they
                                   // will need to update their package.json), requiring a major version bump
     "@aws-cdk/core": "1.90.0",   // <-- this can be higher. Still no ^
@@ -65,8 +65,10 @@ and any change to your dependencies is a breaking change that requires a major v
 
 > This unfortunate user experience is ultimately the reason CDK went with `dependencies` instead of `peerDependencies`...
 > but if you don't have all versions exactly in lockstep then NPM may install multiple copies of the libraries
-> which leads to compilation errors. 
+> which leads to compilation errors.
 >
 > The ultimate correct behavior is what NPM 7 is doing: automatically installing `peerDependencies`, ensuring there is
-> only one copy of the library. At this point we'll have to either mandate that our users use NPM 7, or keep accomodating NPM 6 
+> only one copy of the library. At this point we'll have to either mandate that our users use NPM 7, or keep accomodating NPM 6
 > with additional instructions until NPM 7 has become widespread enough.
+>
+> (NPM 7 will become the default starting with Node 14. The previous LTS, Node 12, will hit end-of-life in April 2022).
