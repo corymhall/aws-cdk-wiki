@@ -42,3 +42,7 @@ This error will not affect the normal operation of the CLI. If you are investiga
 ## What if I don't want notices?
 
 Run the CDK CLI with `--no-notices`, `CDK_NOTICES=false` or put `{ "notices": false }` in `cdk.json`.
+
+## What if I want to see all notices that affect my application?
+
+Run the `cdk notices` command. It will fetch the latest information and will ignore acknowledgements.
