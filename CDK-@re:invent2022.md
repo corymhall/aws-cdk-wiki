@@ -5,16 +5,16 @@ CDK is going to be presented in 44(!) sessions. Not only in Developer Productivi
 
 ### DOP401: Get better at building AWS CDK constructs
 `10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn`  
-In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.
+In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.  
 Session level: 400 - Expert | Session type: Workshop
 
 ### DOP314: Governance and security with infrastructure as code
-2:30 PM - 3:30 PM | Level 3, Chairmans 355, MGM Grand
+`2:30 PM - 3:30 PM | Level 3, Chairmans 355, MGM Grand`  
 In this session, learn how to use AWS CloudFormation and the AWS CDK to deploy cloud applications in regulated environments while enforcing security controls. Find out how to catch issues early with cdk-nag, validate your pipelines with cfn-guard, and protect your accounts from unintended changes with CloudFormation hooks.
 Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP310: Continuous integration and delivery on AWS
-4:00 PM - 6:00 PM | Level 1, Lafite 2, Wynn
+`4:00 PM - 6:00 PM | Level 1, Lafite 2, Wynn`  
 In this workshop, learn about creating end-to-end CI/CD pipelines using infrastructure as code on AWS. Review fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript, create a web application and use Docker to build a container image. Using the same language your application is written in, build your CI/CD pipeline code and application infrastructure for both test and production environments using the AWS Cloud Development Kit (CDK). Get ready to build! You must bring your laptop to participate.
 Session level: 300 – Advanced | Session type: Workshop
 
