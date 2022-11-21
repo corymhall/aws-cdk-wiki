@@ -103,8 +103,7 @@ Session level: 300 – Advanced | Session type: Workshop
 
 ### DOP305: Creating custom constructs with AWS CDK
 `4:00 PM - 5:00 PM | Level 1, Forum 104, Caesars Forum`  
-Join this chalk talk to get your questions answered about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and the Construct Hub. 
- 
+Join this chalk talk to get your questions answered about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and the Construct Hub.  
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### ANT310: Build a data mesh with AWS Lake Formation and AWS Glue
