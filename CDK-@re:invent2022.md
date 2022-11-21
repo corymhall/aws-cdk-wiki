@@ -4,7 +4,7 @@ CDK is going to be presented in 44(!) sessions. Not only in Developer Productivi
 # *Monday, November 28*
 
 ### DOP401: Get better at building AWS CDK constructs
-10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn
+`10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn`
 In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.
 Session level: 400 - Expert | Session type: Workshop
 
