@@ -77,8 +77,8 @@ Session level: 300 – Advanced | Session type: Breakout Session
 
 # *Wednesday, November 30*
 ### BOA327: Simplifying your infrastructure with Go, CDK, and cdk8s
-8:30 AM - 9:30 AM | Level 1, Forum 113, Caesars Forum
-In this demo-driven session, explore how to define and deploy infrastructure as Go code with AWS CDK and AWS CDK for Kubernetes (cdk8s). First, learn how to build and test a simple CDK application and extend it to a complete serverless application. Then, explore how to manage Kubernetes applications/infrastructure with cdk8s, including how to use the cdk8s- plus library to reduce verbosity and convert existing Kubernetes custom resource definitions to Go code. Finally, learn how to combine CDK and cdk8s in the same application to deploy your infrastructure (Amazon EKS cluster) and code (Kubernetes applications).
+`8:30 AM - 9:30 AM | Level 1, Forum 113, Caesars Forum`  
+In this demo-driven session, explore how to define and deploy infrastructure as Go code with AWS CDK and AWS CDK for Kubernetes (cdk8s). First, learn how to build and test a simple CDK application and extend it to a complete serverless application. Then, explore how to manage Kubernetes applications/infrastructure with cdk8s, including how to use the cdk8s- plus library to reduce verbosity and convert existing Kubernetes custom resource definitions to Go code. Finally, learn how to combine CDK and cdk8s in the same application to deploy your infrastructure (Amazon EKS cluster) and code (Kubernetes applications).  
 Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP302: How to reuse patterns when developing infrastructure as code
@@ -87,25 +87,29 @@ Explore AWS Cloud Development Kit (AWS CDK) constructs and AWS CloudFormation mo
 Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP204: Provisioning, automating, and orchestrating IaC on AWS
-1:00 PM - 2:00 PM | Level 1, Forum 104, Caesars Forum
-Join this chalk talk to get your questions answered about virtually all things infrastructure as code (IaC), including AWS services and AWS Partner IaC products. Explore topics such as IaC patterns, AWS CDK, and AWS CloudFormation. Session level: 200 – Intermediate | Session type: Chalk Talk
+`1:00 PM - 2:00 PM | Level 1, Forum 104, Caesars Forum`  
+Join this chalk talk to get your questions answered about virtually all things infrastructure as code (IaC), including AWS services and AWS Partner IaC products. Explore topics such as IaC patterns, AWS CDK, and AWS CloudFormation.  
+Session level: 200 – Intermediate | Session type: Chalk Talk
+
 ### DOP309: Develop AWS CDK resources to deploy your applications on AWS
-2:30 PM - 4:30 PM | Level 2, Bellini 2006, Venetian
-In this workshop, learn how to build applications using infrastructure as code with AWS CDK. Create resources using AWS CDK and learn maintenance and operations tips. Walk through the steps of coding and building your own constructs (or integrating solution constructs) and publish them as shared libraries. You must bring your laptop to participate. Session level: 300 – Advanced | Session type: Workshop
+`2:30 PM - 4:30 PM | Level 2, Bellini 2006, Venetian`  
+In this workshop, learn how to build applications using infrastructure as code with AWS CDK. Create resources using AWS CDK and learn maintenance and operations tips. Walk through the steps of coding and building your own constructs (or integrating solution constructs) and publish them as shared libraries. You must bring your laptop to participate.  
+Session level: 300 – Advanced | Session type: Workshop
 
 ### DOP310-R: Continuous integration and delivery on AWS
-3:15 PM - 5:15 PM | Level 1, Grand 118, MGM Grand
-In this workshop, learn about creating end-to-end CI/CD pipelines using infrastructure as code on AWS. Review fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript, create a web application and use Docker to build a container image. Using the same language your application is written in, build your CI/CD pipeline code and application infrastructure for both test and production environments using the AWS Cloud Development Kit (CDK). Get ready to build! You must bring your laptop to participate.
+`3:15 PM - 5:15 PM | Level 1, Grand 118, MGM Grand`  
+In this workshop, learn about creating end-to-end CI/CD pipelines using infrastructure as code on AWS. Review fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript, create a web application and use Docker to build a container image. Using the same language your application is written in, build your CI/CD pipeline code and application infrastructure for both test and production environments using the AWS Cloud Development Kit (CDK). Get ready to build! You must bring your laptop to participate.  
 Session level: 300 – Advanced | Session type: Workshop
 
 ### DOP305: Creating custom constructs with AWS CDK
-4:00 PM - 5:00 PM | Level 1, Forum 104, Caesars Forum
-Join this chalk talk to get your questions answered about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and the Construct Hub.
+`4:00 PM - 5:00 PM | Level 1, Forum 104, Caesars Forum`  
+Join this chalk talk to get your questions answered about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and the Construct Hub. 
+ 
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### ANT310: Build a data mesh with AWS Lake Formation and AWS Glue
-5:30 PM - 7:30 PM | Level 1, Alliance 307, Caesars Forum
-In this workshop, learn how to build a data mesh architecture on AWS. Organizations are interested in implementing this architecture to move away from centralized data lakes and toward decentralized ownership and delivery of analytics solutions across business units. Learn about data mesh fundamentals and principles, how data mesh can impact your organization, and how data mesh architecture can be implemented with AWS services. Build your own data mesh using AWS Lake Formation, AWS Glue, and AWS CDK, and share data across business units. You must bring your laptop to participate.
+`5:30 PM - 7:30 PM | Level 1, Alliance 307, Caesars Forum`  
+In this workshop, learn how to build a data mesh architecture on AWS. Organizations are interested in implementing this architecture to move away from centralized data lakes and toward decentralized ownership and delivery of analytics solutions across business units. Learn about data mesh fundamentals and principles, how data mesh can impact your organization, and how data mesh architecture can be implemented with AWS services. Build your own data mesh using AWS Lake Formation, AWS Glue, and AWS CDK, and share data across business units. You must bring your laptop to participate.  
 Session level: 300 – Advanced | Session type: Workshop
 
 # *Thursday, December 1*
