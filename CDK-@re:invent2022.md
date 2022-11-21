@@ -1,7 +1,7 @@
 For 10 years, the global cloud community has come together at AWS re:Invent to meet, get inspired, and rethink what's possible. This year we are getting back together for biggest, most comprehensive, and most vibrant event in cloud computing.
 CDK is going to be presented in 44 sessions there. Not only in Developer Productivity & DevOps (DOP) track, but also Serverless Compute (SVS), Partner Experience (PEX), Containers and more. Those sessions will be delivered by AWS specialists, partners and customers on different levels  and session types. To help you navigate your experience at re:invent for CDK-related sessions, we created a shortlist for you: 
 
-# Monday, November 28
+# *Monday, November 28*
 
 ### DOP401: Get better at building AWS CDK constructs
 10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn
@@ -62,7 +62,8 @@ Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### BOA403: Extend AWS CloudFormation and AWS CDK with third-party resources
 3:30 PM - 4:30 PM | Level 1, Alliance 311, Caesars Forum
-This chalk talk guides you through best practices for building and publishing third-party extensions, specifically including resource types on the AWS CloudFormation public or private registry. The talk can also help you understand how to consume these resource types from a registry created by other teams or organizations. Learn how to find these resource types, which are automatically available as Level 1 constructs on the AWS CDK and on AWS Cloud Control API. Session level: 400 – Expert | Session type: Chalk Talk
+This chalk talk guides you through best practices for building and publishing third-party extensions, specifically including resource types on the AWS CloudFormation public or private registry. The talk can also help you understand how to consume these resource types from a registry created by other teams or organizations. Learn how to find these resource types, which are automatically available as Level 1 constructs on the AWS CDK and on AWS Cloud Control API. 
+Session level: 400 – Expert | Session type: Chalk Talk
 
 ### SVS301-R: Refactoring to serverless
 5:00 PM - 6:00 PM | Level 1, Boulevard 167, MGM Grand
