@@ -10,7 +10,7 @@ Session level: 400 - Expert | Session type: Workshop
 
 ### DOP314: Governance and security with infrastructure as code
 `2:30 PM - 3:30 PM | Level 3, Chairmans 355, MGM Grand`  
-In this session, learn how to use AWS CloudFormation and the AWS CDK to deploy cloud applications in regulated environments while enforcing security controls. Find out how to catch issues early with cdk-nag, validate your pipelines with cfn-guard, and protect your accounts from unintended changes with CloudFormation hooks.
+In this session, learn how to use AWS CloudFormation and the AWS CDK to deploy cloud applications in regulated environments while enforcing security controls. Find out how to catch issues early with cdk-nag, validate your pipelines with cfn-guard, and protect your accounts from unintended changes with CloudFormation hooks.  
 Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP310: Continuous integration and delivery on AWS
@@ -19,20 +19,20 @@ In this workshop, learn about creating end-to-end CI/CD pipelines using infrastr
 Session level: 300 – Advanced | Session type: Workshop
 
 ### SVS301: Refactoring to serverless
-4:45 PM - 5:45 PM | Level 1, Forum 115, Caesars Forum
-Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones.
+`4:45 PM - 5:45 PM | Level 1, Forum 115, Caesars Forum`. 
+Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones. 
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### SVS207: Building serverless applications with AWS CDK
-5:30 PM - 6:30 PM | Level 1, Alliance 312, Caesars Forum
-The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. In this builders’ session, learn how to use AWS CDK constructs to manage, build, and deploy your application. You must bring your laptop to participate.
+`5:30 PM - 6:30 PM | Level 1, Alliance 312, Caesars Forum`. 
+The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. In this builders’ session, learn how to use AWS CDK constructs to manage, build, and deploy your application. You must bring your laptop to participate. 
 Session level: 200 – Intermediate | Session type: Builders' Session
 
 # *Tuesday, November 29*
 ### DOP401-R: Get better at building AWS CDK constructs
-10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn
+`10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn`. 
 In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that
-meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.
+meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.  
 Session level: 400 - Expert | Session type: Workshop
 
 ### PEX303: Application modernization using Amazon EKS Blueprints for AWS CDK
