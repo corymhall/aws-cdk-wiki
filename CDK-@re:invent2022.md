@@ -83,7 +83,7 @@ Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP302: How to reuse patterns when developing infrastructure as code
 11:30 AM - 12:30 PM | Level 2 South, Reef C, Mandalay Bay
-Explore AWS Cloud Development Kit (AWS CDK) constructs and AWS CloudFormation modules and how they can help make it easier to build applications on AWS. Learn best practices from United Airlines, who shares how they have used AWS CDK to create an internal library of infrastructure components that their development team can reuse to accelerate application delivery.
+Explore AWS Cloud Development Kit (AWS CDK) constructs and AWS CloudFormation modules and how they can help make it easier to build applications on AWS. Learn best practices from United Airlines, who shares how they have used AWS CDK to create an internal library of infrastructure components that their development team can reuse to accelerate application delivery.  
 Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP204: Provisioning, automating, and orchestrating IaC on AWS
@@ -104,7 +104,6 @@ Session level: 300 – Advanced | Session type: Workshop
 ### DOP305: Creating custom constructs with AWS CDK
 `4:00 PM - 5:00 PM | Level 1, Forum 104, Caesars Forum`  
 Join this chalk talk to get your questions answered about creating, publishing, and sharing your AWS CDK constructs publicly and privately. Learn about construct levels, how to test your constructs, how to discover and use constructs in your AWS CDK projects, and the Construct Hub. 
- 
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### ANT310: Build a data mesh with AWS Lake Formation and AWS Glue
