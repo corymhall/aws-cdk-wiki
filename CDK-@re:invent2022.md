@@ -15,11 +15,11 @@ Session level: 300 – Advanced | Session type: Breakout Session
 
 ### DOP310: Continuous integration and delivery on AWS
 `4:00 PM - 6:00 PM | Level 1, Lafite 2, Wynn`  
-In this workshop, learn about creating end-to-end CI/CD pipelines using infrastructure as code on AWS. Review fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript, create a web application and use Docker to build a container image. Using the same language your application is written in, build your CI/CD pipeline code and application infrastructure for both test and production environments using the AWS Cloud Development Kit (CDK). Get ready to build! You must bring your laptop to participate.
+In this workshop, learn about creating end-to-end CI/CD pipelines using infrastructure as code on AWS. Review fundamental concepts of continuous integration, continuous deployment, and continuous delivery. Then, using TypeScript, create a web application and use Docker to build a container image. Using the same language your application is written in, build your CI/CD pipeline code and application infrastructure for both test and production environments using the AWS Cloud Development Kit (CDK). Get ready to build! You must bring your laptop to participate.  
 Session level: 300 – Advanced | Session type: Workshop
 
 ### SVS301: Refactoring to serverless
-`4:45 PM - 5:45 PM | Level 1, Forum 115, Caesars Forum`. 
+`4:45 PM - 5:45 PM | Level 1, Forum 115, Caesars Forum`  
 Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones. 
 Session level: 300 – Advanced | Session type: Chalk Talk
 
