@@ -20,12 +20,12 @@ Session level: 300 – Advanced | Session type: Workshop
 
 ### SVS301: Refactoring to serverless
 `4:45 PM - 5:45 PM | Level 1, Forum 115, Caesars Forum`  
-Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones. 
+Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones.  
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### SVS207: Building serverless applications with AWS CDK
-`5:30 PM - 6:30 PM | Level 1, Alliance 312, Caesars Forum`. 
-The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. In this builders’ session, learn how to use AWS CDK constructs to manage, build, and deploy your application. You must bring your laptop to participate. 
+`5:30 PM - 6:30 PM | Level 1, Alliance 312, Caesars Forum`  
+The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. In this builders’ session, learn how to use AWS CDK constructs to manage, build, and deploy your application. You must bring your laptop to participate.  
 Session level: 200 – Intermediate | Session type: Builders' Session
 
 # *Tuesday, November 29*
