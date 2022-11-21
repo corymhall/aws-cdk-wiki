@@ -1,5 +1,5 @@
 For 10 years, the global cloud community has come together at AWS re:Invent to meet, get inspired, and rethink what's possible. This year we are getting back together for biggest, most comprehensive, and most vibrant event in cloud computing.
-CDK is going to be presented in 44(!) sessions. Not only in Developer Productivity & DevOps (DOP) track, but also Serverless Compute (SVS), Partner Experience (PEX), Containers and more. Those sessions will be delivered by AWS specialists, partners and customers on different levels  and session types. To help you navigate your experience at re:invent for CDK-related sessions, we created a shortlist for you: 
+CDK is going to be presented in 44(!) sessions. Not only in Developer Productivity & DevOps (DOP) track, but also Serverless Compute (SVS), Partner Experience (PEX), Containers and more. Those sessions will be delivered by AWS specialists, partners and customers on different levels  and session types. To help you navigate your experience at re:invent for CDK-related sessions, we created a short list of CDK sessions by schedule. 
 
 # *Monday, November 28*
 
