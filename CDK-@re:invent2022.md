@@ -1,5 +1,5 @@
 For 10 years, the global cloud community has come together at AWS re:Invent to meet, get inspired, and rethink what's possible. This year we are getting back together for biggest, most comprehensive, and most vibrant event in cloud computing.
-CDK is going to be presented in 44 sessions there. Not only in Developer Productivity & DevOps (DOP) track, but also Serverless Compute (SVS), Partner Experience (PEX), Containers and more. Those sessions will be delivered by AWS specialists, partners and customers on different levels  and session types. To help you navigate your experience at re:invent for CDK-related sessions, we created a shortlist for you: 
+CDK is going to be presented in 44(!) sessions. Not only in Developer Productivity & DevOps (DOP) track, but also Serverless Compute (SVS), Partner Experience (PEX), Containers and more. Those sessions will be delivered by AWS specialists, partners and customers on different levels  and session types. To help you navigate your experience at re:invent for CDK-related sessions, we created a shortlist for you: 
 
 # *Monday, November 28*
 
@@ -28,7 +28,7 @@ Session level: 300 – Advanced | Session type: Chalk Talk
 The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. In this builders’ session, learn how to use AWS CDK constructs to manage, build, and deploy your application. You must bring your laptop to participate.
 Session level: 200 – Intermediate | Session type: Builders' Session
 
-# Tuesday, November 29
+# *Tuesday, November 29*
 ### DOP401-R: Get better at building AWS CDK constructs
 10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn
 In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that
@@ -75,7 +75,7 @@ Session level: 300 – Advanced | Session type: Chalk Talk
 This session takes you on a migration journey. See an example of how to do a lift and shift migration of an existing web application to the cloud and serverless services, such as AWS Lambda, AWS Amplify, Amazon Cognito, Amazon S3, and others. And all built with AWS CDK. In each step of the migration, hear discussion of the different architectural decisions involved. And after the lift and shift migration is done, discuss the possible further improvements for this application to take advantage of the serverless architectures.
 Session level: 300 – Advanced | Session type: Breakout Session
 
-# Wednesday, November 30
+# *Wednesday, November 30*
 ### BOA327: Simplifying your infrastructure with Go, CDK, and cdk8s
 8:30 AM - 9:30 AM | Level 1, Forum 113, Caesars Forum
 In this demo-driven session, explore how to define and deploy infrastructure as Go code with AWS CDK and AWS CDK for Kubernetes (cdk8s). First, learn how to build and test a simple CDK application and extend it to a complete serverless application. Then, explore how to manage Kubernetes applications/infrastructure with cdk8s, including how to use the cdk8s- plus library to reduce verbosity and convert existing Kubernetes custom resource definitions to Go code. Finally, learn how to combine CDK and cdk8s in the same application to deploy your infrastructure (Amazon EKS cluster) and code (Kubernetes applications).
@@ -108,7 +108,7 @@ Session level: 300 – Advanced | Session type: Chalk Talk
 In this workshop, learn how to build a data mesh architecture on AWS. Organizations are interested in implementing this architecture to move away from centralized data lakes and toward decentralized ownership and delivery of analytics solutions across business units. Learn about data mesh fundamentals and principles, how data mesh can impact your organization, and how data mesh architecture can be implemented with AWS services. Build your own data mesh using AWS Lake Formation, AWS Glue, and AWS CDK, and share data across business units. You must bring your laptop to participate.
 Session level: 300 – Advanced | Session type: Workshop
 
-# Thursday, December 1
+# *Thursday, December 1*
 ### GAM302: Containers for scaling games
 11:45 AM - 1:45 PM | Level 1, Lafleur 2, Wynn
 In this workshop, learn how to modernize game servers by porting them from bare metal/VM to containers. Gain practical skills for how to deploy game servers to Kubernetes while meeting CPU and memory requirements, integrate matchmaking, utilize container scans in CI/CD pipelines, and observe games using custom metrics. Attendees also build foundational skills around AWS CDK. You must bring your laptop to participate.
