@@ -1,1 +1,0 @@
-![background-image](https://event.assets.us-east-1.prod.events.aws.a2z.com/eventImages/00000000-0000-4000-8000-000000000000/0f11703d-269d-4ae2-aaec-e88cb585fff2)
