@@ -30,49 +30,48 @@ Session level: 200 – Intermediate | Session type: Builders' Session
 
 # *Tuesday, November 29*
 ### DOP401-R: Get better at building AWS CDK constructs
-`10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn`. 
+`10:00 AM - 12:00 PM | Upper Level, Cristal 3, Wynn`  
 In this workshop, dive deep into how to design AWS CDK constructs, which are reusable and shareable cloud components that
 meet your organization's security, compliance, and governance requirements. Learn how to build, test, and share level-one constructs representing a single AWS resource, as well as higher-level abstractions (level-two and level-three constructs) that include built-in defaults and provision multiple AWS resources. You must bring your laptop to participate.  
 Session level: 400 - Expert | Session type: Workshop
 
 ### PEX303: Application modernization using Amazon EKS Blueprints for AWS CDK
-11:00 AM - 1:00 PM | Level 2, Bellini 2006, Venetian
-Attend this workshop to learn how to use the Amazon EKS Blueprints for AWS CDK to build and deploy a multi-tenant container solution on top of Amazon EKS. Gain a deep understanding of how to use the EKS Blueprints for AWS CDK framework to define and deploy Amazon EKS clusters that address all day-two operations using AWS CDK. To get the most out of this workshop, it’s helpful to have a basic understanding of AWS CDK, TypeScript, and Amazon EKS. You must bring your laptop to participate. This workshop is intended for AWS Partners.
+`11:00 AM - 1:00 PM | Level 2, Bellini 2006, Venetian`  
+Attend this workshop to learn how to use the Amazon EKS Blueprints for AWS CDK to build and deploy a multi-tenant container solution on top of Amazon EKS. Gain a deep understanding of how to use the EKS Blueprints for AWS CDK framework to define and deploy Amazon EKS clusters that address all day-two operations using AWS CDK. To get the most out of this workshop, it’s helpful to have a basic understanding of AWS CDK, TypeScript, and Amazon EKS. You must bring your laptop to participate. This workshop is intended for AWS Partners.  
 Session level: 300 – Advanced | Session type: Workshop
 
 ### TNC212: Deploying an Amazon EKS application using cdk8s
-11:00 AM - 12:30 PM | Level 2, Bellini 2103, Venetian
-In this lab, learn about the Cloud Development Kit for Kubernetes (cdk8s), a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and object-oriented APIs that provides an alternative to using kubectl. Discover how developers using cdk8s can write and share Kubernetes applications and API resources using the languages of their choice and synthesize their configurations into standard Kubernetes YAML manifests, which can be applied to any Kubernetes cluster. Finally, learn how to deploy an Amazon EKS application using cdk8s.
+`11:00 AM - 12:30 PM | Level 2, Bellini 2103, Venetian`  
+In this lab, learn about the Cloud Development Kit for Kubernetes (cdk8s), a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and object-oriented APIs that provides an alternative to using kubectl. Discover how developers using cdk8s can write and share Kubernetes applications and API resources using the languages of their choice and synthesize their configurations into standard Kubernetes YAML manifests, which can be applied to any Kubernetes cluster. Finally, learn how to deploy an Amazon EKS application using cdk8s.  
 Session level: 200 – Intermediate | Session type: Lab
 
 ### CON301: Well-built and secure Kubernetes manifests with cdk8s
-1:15 PM - 2:15 PM | Level 1, Boulevard 169, MGM Grand
-Authoring production-grade Kubernetes manifests can be a complex task that requires special expertise and is often done by central DevOps teams. As companies shift towards more developer independence and faster feedback loops, they need to lower the barrier of entry and improve their ability to maintain Kubernetes manifests. In this chalk talk, learn how to use the cdk8s toolchain and see how it can simplify writing well-built and secure applications. Specifically, find out more about the cdk8s+ library, which offers intent-based and developer-friendly APIs for core Kubernetes resources.
+`1:15 PM - 2:15 PM | Level 1, Boulevard 169, MGM Grand`  
+Authoring production-grade Kubernetes manifests can be a complex task that requires special expertise and is often done by central DevOps teams. As companies shift towards more developer independence and faster feedback loops, they need to lower the barrier of entry and improve their ability to maintain Kubernetes manifests. In this chalk talk, learn how to use the cdk8s toolchain and see how it can simplify writing well-built and secure applications. Specifically, find out more about the cdk8s+ library, which offers intent-based and developer-friendly APIs for core Kubernetes resources.  
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### DOP201: AWS infrastructure as code: A year in review
-1:15 PM - 2:15 PM | Level 1, Summit 201, Caesars Forum
-Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS CDK.
-Session level: 200 – Intermediate | Session type: Breakout Session
+`1:15 PM - 2:15 PM | Level 1, Summit 201, Caesars Forum`  
+Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS CDK.  Session level: 200 – Intermediate | Session type: Breakout Session
 
 ### DOP321: Organize application components into repositories & pipelines with AWS CDK
-2:45 PM - 3:45 PM | Level 1, Forum 108, Caesars Forum
-This chalk talk focuses on organizing components and pipelines with the AWS CDK. Learn how to decide on trade-offs around operational excellence, reliability, and delivery performance. The talk recommends a specific approach and shows how to implement it using the AWS CDK. This methodology builds upon the operational experience embodied in the AWS Well- Architected Framework and lessons learned from automating safe deployments at Amazon.
+`2:45 PM - 3:45 PM | Level 1, Forum 108, Caesars Forum`  
+This chalk talk focuses on organizing components and pipelines with the AWS CDK. Learn how to decide on trade-offs around operational excellence, reliability, and delivery performance. The talk recommends a specific approach and shows how to implement it using the AWS CDK. This methodology builds upon the operational experience embodied in the AWS Well- Architected Framework and lessons learned from automating safe deployments at Amazon.  
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### BOA403: Extend AWS CloudFormation and AWS CDK with third-party resources
-3:30 PM - 4:30 PM | Level 1, Alliance 311, Caesars Forum
-This chalk talk guides you through best practices for building and publishing third-party extensions, specifically including resource types on the AWS CloudFormation public or private registry. The talk can also help you understand how to consume these resource types from a registry created by other teams or organizations. Learn how to find these resource types, which are automatically available as Level 1 constructs on the AWS CDK and on AWS Cloud Control API. 
+`3:30 PM - 4:30 PM | Level 1, Alliance 311, Caesars Forum`  
+This chalk talk guides you through best practices for building and publishing third-party extensions, specifically including resource types on the AWS CloudFormation public or private registry. The talk can also help you understand how to consume these resource types from a registry created by other teams or organizations. Learn how to find these resource types, which are automatically available as Level 1 constructs on the AWS CDK and on AWS Cloud Control API.  
 Session level: 400 – Expert | Session type: Chalk Talk
 
 ### SVS301-R: Refactoring to serverless
-5:00 PM - 6:00 PM | Level 1, Boulevard 167, MGM Grand
-Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones.
+`5:00 PM - 6:00 PM | Level 1, Boulevard 167, MGM Grand`  
+Serverless applications can draw from an entire system of fully managed services, such as message queuing, orchestration, and event routing. These services support fine-grained asynchronous applications and are also programmable with AWS CDK in the same language used to code your application logic. This session shows how you can refactor an existing serverless application to fully utilize AWS managed services and make service dependencies explicit, resulting in cleaner and more robust code. This session shares an initial catalog of refactoring and invites you to brainstorm new ones.  
 Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### BOA326: Lift and shift a web application to serverless: Yes, it’s possible!
-5:00 PM - 6:00 PM | Level 3 South, South Seas C, Mandalay Bay
-This session takes you on a migration journey. See an example of how to do a lift and shift migration of an existing web application to the cloud and serverless services, such as AWS Lambda, AWS Amplify, Amazon Cognito, Amazon S3, and others. And all built with AWS CDK. In each step of the migration, hear discussion of the different architectural decisions involved. And after the lift and shift migration is done, discuss the possible further improvements for this application to take advantage of the serverless architectures.
+`5:00 PM - 6:00 PM | Level 3 South, South Seas C, Mandalay Bay`  
+This session takes you on a migration journey. See an example of how to do a lift and shift migration of an existing web application to the cloud and serverless services, such as AWS Lambda, AWS Amplify, Amazon Cognito, Amazon S3, and others. And all built with AWS CDK. In each step of the migration, hear discussion of the different architectural decisions involved. And after the lift and shift migration is done, discuss the possible further improvements for this application to take advantage of the serverless architectures.  
 Session level: 300 – Advanced | Session type: Breakout Session
 
 # *Wednesday, November 30*
