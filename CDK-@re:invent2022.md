@@ -52,7 +52,8 @@ Session level: 300 – Advanced | Session type: Chalk Talk
 
 ### DOP201: AWS infrastructure as code: A year in review
 `1:15 PM - 2:15 PM | Level 1, Summit 201, Caesars Forum`  
-Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS CDK.  Session level: 200 – Intermediate | Session type: Breakout Session
+Join this session to learn about the new features and improvements for AWS infrastructure as code with AWS CloudFormation and AWS CDK.  
+Session level: 200 – Intermediate | Session type: Breakout Session
 
 ### DOP321: Organize application components into repositories & pipelines with AWS CDK
 `2:45 PM - 3:45 PM | Level 1, Forum 108, Caesars Forum`  
@@ -109,11 +110,11 @@ Session level: 300 – Advanced | Session type: Workshop
 
 # *Thursday, December 1*
 ### GAM302: Containers for scaling games
-11:45 AM - 1:45 PM | Level 1, Lafleur 2, Wynn
-In this workshop, learn how to modernize game servers by porting them from bare metal/VM to containers. Gain practical skills for how to deploy game servers to Kubernetes while meeting CPU and memory requirements, integrate matchmaking, utilize container scans in CI/CD pipelines, and observe games using custom metrics. Attendees also build foundational skills around AWS CDK. You must bring your laptop to participate.
+`11:45 AM - 1:45 PM | Level 1, Lafleur 2, Wynn`  
+In this workshop, learn how to modernize game servers by porting them from bare metal/VM to containers. Gain practical skills for how to deploy game servers to Kubernetes while meeting CPU and memory requirements, integrate matchmaking, utilize container scans in CI/CD pipelines, and observe games using custom metrics. Attendees also build foundational skills around AWS CDK. You must bring your laptop to participate.  
 Session level: 300 – Advanced | Session type: Workshop
 
 ### PEX303: Application modernization using Amazon EKS Blueprints for AWS CDK
-2:45 PM - 4:45 PM | Level 1, Margaux 1, Wynn
-Attend this workshop to learn how to use the Amazon EKS Blueprints for AWS CDK to build and deploy a multi-tenant container solution on top of Amazon EKS. Gain a deep understanding of how to use the EKS Blueprints for AWS CDK framework to define and deploy Amazon EKS clusters that address all day-two operations using AWS CDK. To get the most out of this workshop, it’s helpful to have a basic understanding of AWS CDK, TypeScript, and Amazon EKS. You must bring your laptop to participate. This workshop is intended for AWS Partners.
+`2:45 PM - 4:45 PM | Level 1, Margaux 1, Wynn`  
+Attend this workshop to learn how to use the Amazon EKS Blueprints for AWS CDK to build and deploy a multi-tenant container solution on top of Amazon EKS. Gain a deep understanding of how to use the EKS Blueprints for AWS CDK framework to define and deploy Amazon EKS clusters that address all day-two operations using AWS CDK. To get the most out of this workshop, it’s helpful to have a basic understanding of AWS CDK, TypeScript, and Amazon EKS. You must bring your laptop to participate. This workshop is intended for AWS Partners.  
 Session level: 300 – Advanced | Session type: Workshop
