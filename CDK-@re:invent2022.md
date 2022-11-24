@@ -91,6 +91,11 @@ Session level: 300 – Advanced | Session type: Breakout Session
 Join this chalk talk to get your questions answered about virtually all things infrastructure as code (IaC), including AWS services and AWS Partner IaC products. Explore topics such as IaC patterns, AWS CDK, and AWS CloudFormation.  
 Session level: 200 – Intermediate | Session type: Chalk Talk
 
+### COM307: Using CDK pipelines (in Java) to build a multi-platform Flutter application
+`1:30 pm - 2pm, Level 2, Hall B, Expo, Developer Lounge, Booth #2818, Venetian`  
+Trending cross-platform development framework Flutter has the potential to accelerate go-to-market timelines for startups and enterprises. Typically, for business success a CI/CD pipeline is required to achieve fast lead times to production for all platforms that you aim to support. In this dev chat, learn about a CI/CD pipeline that uses CDK pipelines (utilizing AWS CodePipeline and AWS CodeBuild) to build, test, and release a Flutter application. The CDK infrastructure is written in Java. 
+Session level: 300 – Advanced | Session type: Chalk Talk
+
 ### DOP309: Develop AWS CDK resources to deploy your applications on AWS
 `2:30 PM - 4:30 PM | Level 2, Bellini 2006, Venetian`  
 In this workshop, learn how to build applications using infrastructure as code with AWS CDK. Create resources using AWS CDK and learn maintenance and operations tips. Walk through the steps of coding and building your own constructs (or integrating solution constructs) and publish them as shared libraries. You must bring your laptop to participate.  
